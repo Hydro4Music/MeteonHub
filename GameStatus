@@ -1,0 +1,5 @@
+return {
+  Brookhaven = 'P',
+  AnimalSim = 'W',
+  PublicBathSim = 'W'
+}
