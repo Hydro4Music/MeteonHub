@@ -1,0 +1,4 @@
+return {
+  Brookhaven = 'W',
+  AnimalSim = 'W'
+}
