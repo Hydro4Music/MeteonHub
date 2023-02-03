@@ -1,4 +1,5 @@
 return {
   Brookhaven = 'W',
-  AnimalSim = 'W'
+  AnimalSim = 'W',
+  PublicBathSim = 'W'
 }
