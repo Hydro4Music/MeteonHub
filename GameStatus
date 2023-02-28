@@ -1,0 +1,8 @@
+return {
+  Brookhaven = 'W',
+  AnimalSim = 'W',
+  PublicBathSim = 'W',
+  StrongmanSim = 'W',
+  BeAParkourNinja = 'W',
+  GodTycoon = 'W'
+}
